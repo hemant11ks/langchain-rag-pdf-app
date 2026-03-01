@@ -57,7 +57,8 @@ Create a .env file in the root directory:
 OPENAI_API_KEY=your_api_key_here
 ▶️ Run the Application
 streamlit run app.py
-📸 Demo
+<img width="1891" height="811" alt="image" src="https://github.com/user-attachments/assets/057ddf35-85bc-46ac-8332-b9120e48994e" />
+
 
 Add your screenshots or demo video here
 
